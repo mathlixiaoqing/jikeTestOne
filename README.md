@@ -1,3 +1,10 @@
+*[MR编程程序]()
+
+*[HadoopRPC运行结果图]()
+
+*[ava API 操作HBase]()
+
+*[Hive作业]()
 # MR编程程序
 MR程序Yarn运行成功示意图
 ![](src/main/resources/img/MR.png)
@@ -15,3 +22,10 @@ MR运行结果图
 ![](src/main/resources/img/HBase_scan.png)
 HBase API
 ![](src/main/resources/img/Hbase_API.png)
+# Hive作业
+题目一
+![](src/main/resources/img/Hive_01.png)
+题目二
+![](src/main/resources/img/Hive_02.png)
+题目三
+![](src/main/resources/img/Hive_03.png)
